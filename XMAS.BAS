@@ -15,10 +15,10 @@ LOCATE 19
 
 '      <<<<<<<<<<<<<<<<<<<XX>>>>>>>>>>>>>>>>>>>
 PRINT "            Merry Christmas"
-PRINT "       from Foone & Amber Turing!"
+PRINT "        from the Turing Family!"
 PRINT
 PRINT "   Thanks for keeping the past alive,   "
-PRINT "     and keep on retro-ing in 2018!     "
+PRINT "     and keep on retro-ing in 2020!     "
 'END
 SLEEP 5
 
